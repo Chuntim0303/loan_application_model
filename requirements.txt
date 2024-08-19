@@ -3,5 +3,4 @@ joblib==1.2.0
 numpy==2.1.0
 pandas==2.2.2
 scikit_learn==1.2.2
-streamlit==1.30.0
 streamlit==1.37.1
